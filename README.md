@@ -41,17 +41,15 @@
 ✔ Open-source enthusiast  
 
 ---
+## 📈 **GitHub Stats**  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrKind&show_icons=true&theme=radical)](https://github.com/mehrKind)  
 
-## 📊 GitHub Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrKind&layout=compact&theme=radical)](https://github.com/mehrKind)
 
-| | |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrKind&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrKind&theme=radical&hide_border=true&layout=compact&langs_count=8) |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehrKind&theme=radical&hide_border=true) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehrKind&theme=radical&no-frame=true&row=2&column=3) |
 ---
 
 ## 🔗 **Connect with Me**  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/mr_mehr)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.kind1382@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mr_mehr)
 
 ---
 
