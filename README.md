@@ -42,11 +42,12 @@
 
 ---
 
-## 📈 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrKind&show_icons=true&theme=radical)](https://github.com/mehrKind)  
+## 📊 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrKind&layout=compact&theme=radical)](https://github.com/mehrKind)  
-
+| | |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehrKind&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrKind&theme=radical&hide_border=true&layout=compact&langs_count=8) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehrKind&theme=radical&hide_border=true) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mehrKind&theme=radical&no-frame=true&row=2&column=3) |
 ---
 
 ## 🔗 **Connect with Me**  
